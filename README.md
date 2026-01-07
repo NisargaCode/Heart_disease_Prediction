@@ -100,10 +100,13 @@ The Streamlit app allows users to:
 ### 1️⃣ Install dependencies
 ```bash
 pip install numpy pandas matplotlib seaborn scikit-learn streamlit joblib plotly
-
+```
 
 <img width="1912" height="897" alt="image" src="https://github.com/user-attachments/assets/57152e53-b8ea-4662-8cbe-75941f69b7fe" />
 <img width="1918" height="923" alt="image" src="https://github.com/user-attachments/assets/c8626902-33ec-4ac8-9f56-dbb8b3efd5fd" />
 ![Uploading image.png…]()
+
+🔗 Live App: [https://your-streamlit-link](https://heart-disease-prediction03.streamlit.app/)
+
 
 
