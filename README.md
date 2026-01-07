@@ -107,7 +107,7 @@ pip install numpy pandas matplotlib seaborn scikit-learn streamlit joblib plotly
 <img width="1918" height="922" alt="image" src="https://github.com/user-attachments/assets/ac5d6269-30da-4db6-b268-7cbc5d7a86ec" />
 
 
-🔗 Live App: [https://your-streamlit-link](https://heart-disease-prediction03.streamlit.app/)
+🔗 Live App: https://heart-disease-prediction03.streamlit.app/
 
 
 
